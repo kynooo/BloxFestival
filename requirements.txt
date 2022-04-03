@@ -1,0 +1,4 @@
+discord.js
+noblox.js
+node-fetch
+express
