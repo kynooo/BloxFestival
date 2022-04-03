@@ -1,2 +1,1 @@
-# BloxFestival
-Discord bot for Realfox
+discord bot for realfox
