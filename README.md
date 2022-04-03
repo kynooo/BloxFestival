@@ -12,5 +12,8 @@
 <h1 align="center">🙏 Support Me</h1>
 <h4 align="center">I don't actually accept cash, but it'd be nice if you starred this. :)</h4>
 
+<h1 align="center">👯‍♂️ Collaboration</h1>
+<h4 align="center">Currently, I don't plan on collaborating with anyone.</h4>
+
 <h1 align="center">👋 Last Notes</h1>
 <h4 align="center">Please do not spam commands, or insert rude profanity whilst using the /issue command. Thanks!</h4>
