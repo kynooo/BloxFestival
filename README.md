@@ -1,4 +1,4 @@
-![Discord](https://img.shields.io/discord/930761612158173194?style=plastic)
+![Discord](https://img.shields.io/discord/930761612158173194?style=plastic) ![GitHub Repo stars](https://img.shields.io/github/stars/kynooo/BloxFestival?style=plastic)
 
 <h1 align="center">📄 About BloxFestival</h1>
 <h4 align="center">BloxFestival is a discord bot written in JavaScript that provides fun commands to get a laugh out of, or, some general commands for administration purposes.</h4>
