@@ -1,1 +1,1 @@
-discord bot for realfox
+voluntarily made discord bot for realfox
