@@ -2,14 +2,12 @@ const fetch = require('node-fetch');
 const http = require("http");
 const express = require("express");
 const app = express();
-const { SlashCommandBuilder } = require('@discordjs/builders');
 const { MessageEmbed } = require('discord.js');
+const { SlashCommandBuilder } = require('@discordjs/builders');
 const noblox = require('noblox.js')
 var server = require("http").createServer(app);
-const hastebin = require("hastebin-gen");
-const sourcebin = require('sourcebin');
 
-noblox.setCookie(process.env.COOKIE).then(function() { //Use COOKIE from our .env file.
+noblox.setCookie(process.env.COOKIE).then(function() {
     console.log("Logged in to roblox!")
 }).catch(function(err) {
     console.log("Unable to log in to roblox!", err)
